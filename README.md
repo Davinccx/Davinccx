@@ -92,32 +92,6 @@ class CybersecurityEngineer:
 - 🎯 OSCP (Offensive Security Certified Professional)
 - 🔴 CRTO (Certified Red Team Operator)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davinccx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davinccx&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davinccx&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Infiltrator Project](https://github-readme-stats.vercel.app/api/pin/?username=Davinccx&repo=Infiltrator-Project&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)](https://github.com/Davinccx/Infiltrator-Project)
-[![Ransom](https://github-readme-stats.vercel.app/api/pin/?username=Davinccx&repo=Ransom&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)](https://github.com/Davinccx/Ransom)
-
-</div>
-
----
 
 ## 💼 Professional Experience
 
@@ -152,20 +126,6 @@ class CybersecurityEngineer:
 [*] Writing technical blog posts on red team tactics
 ```
 
----
-
-## 📚 Learning Path
-
-**2025 Goals:**
-- [ ] Obtain OSCP certification
-- [ ] Publish 10+ technical blog posts
-- [ ] Contribute to 5+ open-source security projects
-- [ ] Develop and release a custom Red Team tool
-- [ ] Achieve Pro Hacker rank on HackTheBox
-- [ ] Speak at a local security conference
-
----
-
 ## 📫 Get In Touch
 
 <div align="center">
@@ -180,14 +140,3 @@ I'm always interested in collaborating on security projects, discussing red team
 
 </div>
 
----
-
-<div align="center">
-  
-### 🔐 "Security is not a product, but a process" - Bruce Schneier
-
-![Profile Views](https://komarev.com/ghpvc/?username=Davinccx&color=00ff00&style=flat-square&label=Profile+Views)
-
-⭐ From [Davinccx](https://github.com/Davinccx) | Building a more secure digital world, one exploit at a time 🛡️
-
-</div>
